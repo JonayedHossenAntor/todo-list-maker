@@ -10,7 +10,7 @@ A to-do list generator using python-flask. Make a list of all the major things y
 ## How To Install and Run the Project :
 Install the Dependencies using pip install -r 
 
-Flask==0.11.1
+* Flask==0.11.1
 Flask-Bcrypt==0.7.1
 Flask-Login==0.3.2
 Flask-SQLAlchemy==2.1
