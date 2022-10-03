@@ -1,12 +1,13 @@
-# TodoListMaker
-A python-flask based Todo-list maker. Create and keep a private record of all the important things you wish to do!
+# Todo List Maker
+A to-do list generator using python-flask. Make a list of all the major things you want to do and keep it confidential.
 
-Requirements:
+## Requirements:
 python
 pip
 peewee
 Flask
-How To Install and Run the Project :
+
+## How To Install and Run the Project :
 Install the Dependencies using pip install -r requirements.txt.
 
 Run the project using python app.py.
